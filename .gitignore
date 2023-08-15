@@ -1,4 +1,5 @@
 /tests/
+/tests/__pycache__
 
 /error_metrics/__pycache__
-/tests/__pycache__
+/error_metrics/__init__.py
