@@ -1,6 +1,6 @@
 # Error Metrics Library
 
-`error_metrics` is a small library that provides different error metrics. These metrics are mainly used in the time series forecasting.
+`errormetrics` is a small library that provides different error metrics. These metrics are mainly used in the time series forecasting.
 
 ## Get Started
 
@@ -11,7 +11,7 @@ Use `pip install git+https://github.com/jaciz/error_metrics/` to install the lib
 To get started, import the library as such below.
 
 ``` Python
-from error_metrics import error_metrics as em
+from errormetrics import errormetrics as em
 
 # Example data
 x = [1, 2, 3, 4, 5]
