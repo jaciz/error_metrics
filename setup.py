@@ -1,8 +1,8 @@
 import setuptools
 
 setuptools.setup(
-    name='error_metrics',
-    version='0.0.2', 
+    name='errormetrics',
+    version='0.0.3', 
     description='For time series forecasting error metrics',
     url='https://github.com/jaciz/error_metrics.git',
     author='Jaci',
